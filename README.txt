@@ -39,7 +39,7 @@ every time
 
 CONTROLS :-
 Controls are pretty simple like old mobile games.
-So, controls for spaceship are-
-    2 - Up
-    8 - Down
-    5 - Fire
+So, controls for Luke Skywalker X-WING Spaceship are-
+    2 - Moving ship in Upward direction
+    8 - Moving ship in Downward direction
+    5 - to Fire laser beams from ship
