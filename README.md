@@ -3,6 +3,9 @@
 #### Computer Graphics Project
 #### Programming Language: C Language
 
+# Requirement
+- TurboC/TurboC++
+
 # Introduction
 It is a game with theme based on first released movie of STAR WARS.
 This theme was suggested by my close friend *Gaurav Garmode*.
@@ -34,9 +37,12 @@ Finally, player has fire laser into the hole of Deathstar to destroy it.
 # Controls
 Controls are pretty simple like old mobile games.
 To control *Luke Skywalker's X-WING Spaceship* are-
-    2 - Moving ship in Upward direction
-    8 - Moving ship in Downward direction
-    5 - to Fire laser beams from ship
+
+2 - Moving ship in Upward direction
+
+8 - Moving ship in Downward direction
+
+5 - to Fire laser beams from ship
     
 # Credits
 - **Author:** [Harshad Karanjule](https://github.com/hkaranjule77)
